@@ -1,7 +1,11 @@
 # contactlist
 Contact list
 
-1.5.1 Ruby Heroku setup
+See https://www.youtube.com/playlist?list=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U
+
+See https://github.com/michaelcheng429/meanstacktutorial
+
+1.5.1 Ruby Heroku setup (https://www.railstutorial.org/book/beginning#sec-the_hello_application)
 
 Heroku uses the PostgreSQL database (pronounced “post-gres-cue-ell”, and often called “Postgres” for short), which means that we need to add the pg gem in the production environment to allow Rails to talk to Postgres:17
 
